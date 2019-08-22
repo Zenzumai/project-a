@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "meta-lib-a": "git@github.com:Zenzumai/meta-lib-a.git",
+    "meta-lib-b": "git@github.com:Zenzumai/meta-lib-b.git"
+  }
 }
